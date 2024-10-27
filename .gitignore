@@ -1,0 +1,8 @@
+# ignorando um unico arquivo
+#aula01.js
+
+# ignorarando aquivo de uma extensao
+#*.js
+
+# Ignorando pastas/diretorios
+#docs/
